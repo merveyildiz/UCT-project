@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/MyFiles">
+        <file>ders.csv</file>
+        <file>test.in</file>
+        <file>input_file.csv</file>
+        <file>collective-engineering-lessons.csv</file>
+        <file>lab_list.csv</file>
+    </qresource>
+</RCC>
